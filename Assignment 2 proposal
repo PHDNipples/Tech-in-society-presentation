@@ -1,11 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>test</title>
-        <meta charset="utf-8">
-    </head>
-    <body>
-        This is the body test
-        <p>This is the p test</p>
-    </body>
+<head>
+    <meta charset="utf-8">
+    <title>AI in Education</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        p {
+            font-size: 18px;
+        }
+        a {
+            color: #007BFF;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AI in Education</h1>
+    </header>
+    <div class="container">
+        <h2>Introduction</h2>
+        <p>
+            Artificial intelligence has had a major impact on society with the advancement of technology. The availability and ease of use of AI provide a potent combination that can easily lead to the misuse of AI in education.
+        </p>
+
+        <h2>CEO of OpenAI Sam Altman</h2>
+        <p>
+            CEO of OpenAI Sam Altman addressed concerns about the impact of AI on society, stating, "As this technology advances, we understand that people are anxious about how it could change the way we live." [Read More](https://apnews.com/article/chatgpt-openai-ceo-sam-altman-congress-73ff96c6571f38ad5fd68b3072722790)
+        </p>
+
+        <h2>History and Reasons for Advancement</h2>
+        <p>
+            In the discussion of the worst outcomes coming to fruition, it can be easy to pull the plug on the progression of technology. Tobias Baumann highlights the concerns of advancing technology, historical outcomes with similar factors, and provides an ethical perspective on the necessity of continuing technological advancement. [Read More](https://centerforreducingsuffering.org/research/intro/?gclid=Cj0KCQjwhL6pBhDjARIsAGx8D59XbPFPRomYDNmChXWrcAPCmDjI_N72_DfcM_VEtil_BM0wCElLwLQaAmImEALw_wcB)
+        </p>
+
+        <h2>Ministry of Education</h2>
+        <p>
+            The NZ Ministry of Education acknowledges that AI tools in education are still experimental, and the risks and potential harms are not well understood. As a result, educational entities often opt for a "No AI use" rule to mitigate potential risks.
+        </p>
+
+        <h2>Students' View</h2>
+        <p>
+            For students, the use of AI is complex, with varying levels of knowledge. Risks include plagiarism, data theft, AI dependency, and the spread of propaganda. Users must be cautious when using AI tools in their formal education.
+        </p>
+
+        <p>
+            <strong>Plagiarism:</strong> Users may utilize AI for their work and receive undeserved credit or be falsely accused of using AI.
+        </p>
+        <p>
+            <strong>AI Dependency:</strong> Users may become overly reliant on AI, potentially hindering their own knowledge development.
+        </p>
+        <p>
+            <strong>Data Theft:</strong> The current lack of AI regulation can expose users to data theft risks.
+        </p>
+        <p>
+            This information is provided based on my last knowledge update in September 2021, and I don't have browsing capabilities. For the most up-to-date information, please refer to the official documentation of OpenAI.
+        </p>
+    </div>
+</body>
 </html>
