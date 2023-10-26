@@ -79,17 +79,28 @@
     </style>
 </head>
 <body>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        body {
+          background-color: rgb(227, 244, 253);
+          color: black;
+        }
+      </style>
     <header>
-        <h1>AI in Education</h1>
+        <h1>Risks and misconceptions</h1>
     </header>
-    <div class="container">
-        <a href="#" class="button">Menu</a>
-        <a href="#" class="button">Page 1</a>
-        <a href="#" class="button">Page 2</a>
+    <div class="container" style="align-items: center;">
+        <a href="#" class="button" onclick="location.href='Varun Page'">Varun Page</a>
+        <a href="#" class="button" onclick="location.href='Yu Page'">Yu Page</a>
+        <a href="#" class="button" onclick="location.href='Menu Page'">Menu Page</a>
         
         
 
     </div>
+    
     <div class="container">
         <h2>Introduction</h2>
         <p>
@@ -99,7 +110,8 @@
         <h2>CEO of OpenAI Sam Altman</h2>
         <p>
             CEO of OpenAI Sam Altman addressed concerns about the impact of AI on society, stating, "As this technology advances, we understand that people are anxious about how it could change the way we live." 
-            (O’BRIEN, 2023)
+            <a href="https://apnews.com/article/chatgpt-openai-ceo-sam-altman-congress-73ff96c6571f38ad5fd68b3072722790
+            ">(O’BRIEN, 2023)</a>. 
 
             <br>
             <p>We can find that many answers to AI being abused in education is AI itself. With AI based plagiarism checkers. This however is ineffective. 
@@ -107,7 +119,7 @@
                 <br><p>Using this link, we can manually type in a message, this AI based checker is likely to provide a false positive.
                 
                     <a href="https://www.plagium.com/en/ai_detector">Plagium Originality AI Detector</a></p></p>
-            <img src="" alt="">
+            <img src="Img's\Ai in education\Ai false postive detector.jpg" alt="HTML5 Icon" style="height: 400px;">
         </p>
 
         <h2>History and Reasons for Advancement</h2>
@@ -118,12 +130,22 @@
 
         <h2>Ministry of Education</h2>
         <p>
-            The NZ Ministry of Education acknowledges that AI tools in education are still experimental, and the risks and potential harms are not well understood. As a result, educational entities often opt for a "No AI use" rule to mitigate potential risks.
+            The NZ Ministry of Education acknowledges that AI tools in education are still experimental, and the risks and potential harms are not well understood. When it comes to the view of the education sector, users (Teachers/Educators/Tertiary Entities). The general census is that AI is a tool that needs to be used with caution.  A direct quote from the NZ Ministry of education “These tools are still experimental and the risks and potential harms of these are still not well understood”<br><br>
+            As it is highly unlikely that educational entities will have the skills to fully manage utilization of AI tools and have appropriate risk assessments, often entities will opt for a “No AI use” rule as this covers all potential risks, with the loss of a very powerful tool. <a href="https://gazette.education.govt.nz/articles/how-chatgpt-can-be-a-valuable-asset-to-education/">(Education Gazette editors, 2023)</a>
+            
         </p>
 
         <h2>Students' View</h2>
         <p>
-            For students, the use of AI is complex, with varying levels of knowledge. Risks include plagiarism, data theft, AI dependency, and the spread of propaganda. Users must be cautious when using AI tools in their formal education.
+            For students, the use of AI is complex, with varying levels of knowledge. Risks include 
+            <div>
+                <ul><li>plagiarism</li><br>
+                    <li>data theft</li><br>
+                    <li>AI dependency</li><br>
+                    <li>propaganda.</li><br>
+                </ul>
+            </div> 
+            Users must be cautious when using AI tools in their formal education.
         </p>
 
         <p>
@@ -138,6 +160,12 @@
         <p>
             This information is provided based on my last knowledge update in September 2021, and I don't have browsing capabilities. For the most up-to-date information, please refer to the official documentation of OpenAI.
         </p>
+
+        <p style="font-size: 10px;">Baumann, T. (2017, Janurary 01). S-risks: An introduction. Retrieved from Center of reducing suffering: https://centerforreducingsuffering.org/research/intro/?gclid=Cj0KCQjwhL6pBhDjARIsAGx8D59XbPFPRomYDNmChXWrcAPCmDjI_N72_DfcM_VEtil_BM0wCElLwLQaAmImEALw_wcB
+            Education Gazette editors. (2023, May 11). How ChatGPT can be a valuable asset to education. Retrieved from Ministry of Education: https://gazette.education.govt.nz/articles/how-chatgpt-can-be-a-valuable-asset-to-education/
+            O’BRIEN, M. (2023, May 17). ChatGPT chief says artificial intelligence should be regulated by a US or global agency. Retrieved from APnew.com: https://apnews.com/article/chatgpt-openai-ceo-sam-altman-congress-73ff96c6571f38ad5fd68b3072722790
+            Septet Systems. (2006, janurary 01). Plagium Originality AI Detector. Retrieved from Plagium: https://www.plagium.com/en/ai_detector
+            </p>
     </div>
 </body>
 </html>

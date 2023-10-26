@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+        <header>
+            <head>
+                <meta charset="utf-8">
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        margin: 0;
+                        padding: 0;
+                    }
+                    header {
+                        background-color: #333;
+                        color: #fff;
+                        padding: 20px;
+                        text-align: center;
+                    }
+                    .container {
+                        max-width: 800px;
+                        margin: 0 auto;
+                        padding: 20px;
+                    }
+                    h1 {
+                        font-size: 36px;
+                    }
+                    h2 {
+                        font-size: 24px;
+                    }
+                    p {
+                        font-size: 18px;
+                    }
+                    a {
+                        color: #007BFF;
+                    }
+                    .button {
+                        background-color: #007BFF;
+                        color: #fff;
+                        padding: 10px 20px;
+                        text-decoration: none;
+                        margin: 10px;
+                        border-radius: 5px;
+                    }
+                </style>
+            </head>
+            
+        </header>
+        
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+            }
+            header {
+                background-color: #333;
+                color: #fff;
+                padding: 20px;
+                text-align: center;
+            }
+            .container {
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+            }
+            h1 {
+                font-size: 36px;
+            }
+            h2 {
+                font-size: 24px;
+            }
+            p {
+                font-size: 18px;
+            }
+            a {
+                color: #007BFF;
+            }
+        </style>
+    </head>
+    <body>
+        <style>
+            body {
+              background-color: rgb(227, 244, 253);
+              color: black;
+            }
+          </style>
+        <header>
+            <h1>Menu</h1>
+        </header>
+        <div class="container">
+            <a href="#" class="button" onclick="location.href='Varun Page'">Varun Page</a>
+            <a href="#" class="button" onclick="location.href='Yu Page'">Yu Page</a>
+            <a href="#" class="button" onclick="location.href='Aaron Page'">Aaron Page</a>
+        </div>
+        <div><h2>Our approach</h2>
+            <h3>Integrating ChatGPT into our education system without affecting Academic integrity might be challenging but from our research these are the steps:</h3>
+        <p><div>
+           <ul>
+            <li>Clear Guidelines: Create clear guidelines for ChatGPT use to both students and educators. These guidelines define the responsible and ethical application of AI tools in academic tasks. <br><br></li>
+            <li>Educator Training: train Teachers/educators on AI integration and understand their role in guiding students on the appropriate use of ChatGPT. This includes distinguishing between supplementary support and plagiarism. <br><br></li>
+            <li>Plagiarism Detection: Implement advanced plagiarism detection software, emphasizing that student's work should be original.<br><br></li>
+            <li>Peer Collaboration: Promote peer learning and collaboration while making it clear that final submissions must be the independent work of each student.<br><br></li>
+            <li>Ethical Agreements: Have academic integrity agreements that sets clear expectations and consequences for academic misconduct. <br><br></li>
+            <li>Critical Thinking Focus: Make sure students understand the importance of critical thinking, problem-solving, and creativity in the learning process, while using ChatGPT as a supporting tool rather than using it for answers only. <br><br></li>
+           </ul>
+           By using these strategies combined with clear guidelines, ChatGPT can significantly enhance the educational experience while upholding academic integrity. Smith, J., & Johnson, A. (2022).
+        </p>
+        
+</html>
